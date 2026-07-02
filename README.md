@@ -12,11 +12,6 @@ I transform raw data into meaningful insights through dashboards, analytics, and
 <img src="https://komarev.com/ghpvc/?username=Gifton07&label=Profile%20Views&color=0e75b6&style=flat" alt="Gifton07" />
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Gifton07&theme=flat&margin-w=10" alt="Gifton07" />
-</a>
-</p>
 
 ## 🚀 About Me
 
